@@ -28,7 +28,7 @@ To run this application, you need the following libraries:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/manavkdubey/document-qa]
+   git clone https://github.com/manavkdubey/document-qa
    ```
 
 2. **Install dependencies:**
