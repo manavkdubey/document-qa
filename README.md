@@ -68,7 +68,7 @@ Contributions are welcome. Please fork the repository and submit pull requests w
 
 ## License
 
-Specify the license under which the app is released.
+This repository is under [MIT License](./LICENSE)
 
 
 
